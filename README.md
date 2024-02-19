@@ -9,11 +9,10 @@ Este projeto simula um sistema de casa inteligente, permitindo o controle remoto
 - Júlia Roberta Gomes Miguel
 
 ## Instalação
-Para executar este projeto, certifique-se de ter o Python instalado em seu sistema. Clone este repositório e navegue até a pasta do projeto:
+Para executar este projeto, certifique-se de ter o Python instalado em seu sistema. Clone este repositório:
 
 ```bash
-git clone [URL_DO_REPOSITORIO]
-cd [NOME_DA_PASTA]
+git clone https://github.com/Andre023/TP-redes-de-computadores.git
 ```
 
 ## Uso
